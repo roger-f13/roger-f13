@@ -1,4 +1,5 @@
-# 👋 Olá, seja bem-vindo ao meu perfil no GitHub!
+# 👋 Olá
+<!-- , seja bem-vindo ao meu perfil no GitHub! -->
 
 ## 🚀 Sobre Mim
 Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. Atualmente, estou trabalhando em um projeto de **chatbot para WhatsApp**, utilizando **Python, Flask, LangChain com RAG, Pinecone, API da OpenAI, Node.js, JavaScript, QRCode-terminal e WhatsApp-web.js**.
@@ -19,12 +20,13 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 - Melhorando minha stack em **IA aplicada a chatbots**
 - Explorando mais sobre **integração de APIs e microservices**
 - Aprofundando meus conhecimentos em **arquitetura de sistemas escaláveis**
-
+<!--
 ## 📬 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
 - ✉️ Email: seuemail@example.com
 
 Sempre aberto a novas oportunidades e colaborações! 🚀
+-->
 <!--
 **roger-f13/roger-f13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
