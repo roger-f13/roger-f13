@@ -2,15 +2,14 @@
 <!-- , seja bem-vindo ao meu perfil no GitHub! -->
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. Atualmente, estou trabalhando em um projeto de **chatbot para WhatsApp**, utilizando **Python, Flask, LangChain com RAG, Pinecone, API da OpenAI, Node.js, JavaScript, QRCode-terminal e WhatsApp-web.js**.
+Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. Atualmente, estou trabalhando em um projeto de **chatbot para WhatsApp**, utilizando **Python, Flask, LangChain com RAG, Pinecone, API da OpenAI, Node.js e WhatsApp-web.js**.
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Python, JavaScript, Node.js
 - **Frameworks:** Flask, LangChain
 - **Bancos de Dados:** Pinecone, PostgreSQL, MongoDB
-- **APIs e Integrações:** OpenAI, WhatsApp-web.js, QRCode-terminal
-- **Outros:** Docker, Git, GitHub Actions, CI/CD
+- **APIs e Integrações:** OpenAI, WhatsApp-web.js
 
 ## 🔥 Projetos em Destaque
 - 🤖 **Chatbot para WhatsApp** – Utilizando IA para melhorar a interação com usuários via WhatsApp.
