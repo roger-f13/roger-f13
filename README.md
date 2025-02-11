@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de aprendizado e
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** Python, JavaScript, Node.js, PHP
-- **Frameworks:** Flask, LangChain
+- **Frameworks:** Flask, LangChain, React Native
 - **Bancos de Dados:** Pinecone, PostgreSQL, MongoDB, MySQL
 - **APIs e Integrações:** OpenAI, WhatsApp-web.js, Selenium
 
